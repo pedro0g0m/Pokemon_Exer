@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.exe
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.deps.json
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.runtimeconfig.json
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.dll
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.pdb
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.dll
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.pdb
+C:\Users\Pedro\Desktop\Pedro Moreira CV\premium-minds\Pokemon_Exer\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.genruntimeconfig.cache
