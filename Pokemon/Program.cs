@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Pedro Moreira
+ * 26-03-2021
+ * email: pedrogmoreira94@gmail.com
+ * Desc: Resolucao do exercicio prorposto pela Premium Minds
+ *      Class Program -> contem o Main e server para recolher e mostrar informacoes
+ * */
+
+using System;
 
 namespace Pokemon
 {

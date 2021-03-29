@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Pedro Moreira
+ * 26-03-2021
+ * email: pedrogmoreira94@gmail.com
+ * Desc: Resolucao do exercicio prorposto pela Premium Minds
+ *      Class Move -> Tem todas as funções necessarias que tornam o jogo possivel.
+ * */
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 
